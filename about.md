@@ -7,4 +7,4 @@ group: navigation
  * **Name:** Bamboo Yao
  * **Email:** 
  * **WeiBo:**
- * **Github:** [Simpleyyt](https://github.com/BambooYao)
+ * **Github:** [BambooYao](https://github.com/BambooYao)
